@@ -27,7 +27,11 @@ Runs the song written on the random.text file through the spotify-this-song func
 ## What I Used
 
 Node.js
+
 Spotify NPM Package
+
 Axios NPM Package
+
 BandsInTown API
+
 OMDB API
